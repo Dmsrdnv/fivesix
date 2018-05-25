@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1526238880,
+	"version": 1527287645,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,7 +15,6 @@
 		"images/popupfaqwhitebackground-sheet0.png",
 		"images/hex-sheet0.png",
 		"images/hex-sheet1.png",
-		"images/hex-sheet2.png",
 		"images/sprite-sheet0.png",
 		"images/popupfaqlangjp-sheet0.png",
 		"images/popupfaqlangru-sheet0.png",
@@ -34,7 +33,7 @@
 		"images/building-sheet1.png",
 		"images/building-sheet2.png",
 		"images/buildingbuy-sheet0.png",
-		"images/buypanel-sheet0.png",
+		"images/panelbuy-sheet0.png",
 		"images/picborder-sheet0.png",
 		"images/picborder-sheet1.png",
 		"images/picborder-sheet2.png",
